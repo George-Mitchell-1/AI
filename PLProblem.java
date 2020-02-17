@@ -2,6 +2,10 @@ import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.PriorityQueue;
 
+//doesnt quite work
+//displays search space
+//should report back with final path
+
 public class PLProblem {
     ParkingLot cur;
     public int gridX;
