@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-13T21:14:59.303Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="VF7SE_nz-0BwzgghQ2Ny" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-13T21:15:14.130Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="302hA2DtW-oWXm3K5vvc" version="14.6.13" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1819" dy="1714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -43,7 +43,7 @@
         <mxCell id="cs0Uo0hrlMR5a2CyO7pN-11" value="Take current web socket price" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="490" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="cs0Uo0hrlMR5a2CyO7pN-12" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="cs0Uo0hrlMR5a2CyO7pN-11">
+        <mxCell id="cs0Uo0hrlMR5a2CyO7pN-12" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cs0Uo0hrlMR5a2CyO7pN-11" target="cs0Uo0hrlMR5a2CyO7pN-14">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="530" as="sourcePoint" />
             <mxPoint x="290" y="640" as="targetPoint" />
